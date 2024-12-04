@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Cara E-Commerce",
+      "imageSrc": "projects/Cara.png",
+      "description": "An interactive e-commerce clothing website, featuring responsive design and dynamic product details for a seamless shopping experience.",
+      "skills": ["HTML", "CSS", "JS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Naveen3076/Cara"
+    },
+    {
+      "title": "Portfolio Website",
+      "imageSrc": "projects/Portfolio.png",
+      "description": "A responsive portfolio website built with React.js, showcasing my projects and skills with dynamic UI elements for an engaging user experience.",
+      "skills": ["React", "HTML", "CSS", "JS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Naveen3076/Portfolio"
+    },
+    {
+      "title": "Calculator",
+      "imageSrc": "projects/Calculator.png",
+      "description": "A simple calculator built with HTML, CSS, and JavaScript that includes both light and dark theme options for an enhanced user experience.",
+      "skills": ["HTML", "CSS", "JS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Naveen3076/Calculator"
+    }
+  ]

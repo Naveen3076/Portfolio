@@ -1,0 +1,26 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "JS",
+      "imageSrc": "skills/Js2.png"
+    },
+    {
+      "title": "My SQL",
+      "imageSrc": "skills/Sql.png"
+    },
+    {
+      "title": "Excel",
+      "imageSrc": "skills/Excel.webp"
+    }
+  ]
